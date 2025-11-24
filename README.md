@@ -65,6 +65,10 @@ spring-security-demo/
 3. Déconnectez-vous et reconnectez-vous avec `admin / 1234` :
    - Accès à toutes les pages ✓
 
+
+https://github.com/user-attachments/assets/a9099e3a-9539-4656-aa83-570cdba438f4
+
+
 ## Notes importantes
 
 - Les mots de passe utilisent `{noop}` pour indiquer qu'ils ne sont pas encodés (uniquement pour l'apprentissage)
